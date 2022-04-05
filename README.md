@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kacper-ragankiewicz, I'm studing IT in Polytechnic Institute
+- 👋 Hi, I’m @kacper-ragankiewicz, I'm studing IT in Polytechnic Institute. 
 - 👀 I’m working in DevsCNTR as a Fullstack Developer. 
-- 🌱 On my github you can find mostly projects in Django and React. 
-- 📫 U can reach me with email: kacper@devscntr.com 
-- or private: kacper-ragankiewicz@wp.pl
+- 🌱 Working mostly with Django and React. 
+- 📫 U can reach me throu email: kacper@devscntr.com 
+- or private message: kacper-ragankiewicz@wp.pl
