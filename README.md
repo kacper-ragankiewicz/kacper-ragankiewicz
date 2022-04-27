@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kacper-ragankiewicz, I'm studing IT in Polytechnic Institute. 
 - 👀 I’m working in Cryptomage as a Softwear Developer. 
 - 🌱 Working mostly with Django, React and JS. 
-- 📫 U can reach me throu email: kacper@devscntr.com 
+- 📫 U can reach me throu email: kacper.ragankiewicz@cryptomage.com 
 - or private message: kacper-ragankiewicz@wp.pl
