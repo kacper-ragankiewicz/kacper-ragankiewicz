@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kacper-ragankiewicz, I'm studing IT in Polytechnic Institute. 
-- 👀 I’m Softwear Developer
+- 👋 Hi, I’m @kacper-ragankiewicz. 
+- 👀 I'm a Cyber Security researcher and Sofwear Developer.
 - 🌱 Working mostly with React, NodeJS and more. 
 - 📫 U can reach me throu email kacper-ragankiewicz@wp.pl
 
