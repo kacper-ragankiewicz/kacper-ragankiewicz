@@ -6,3 +6,5 @@
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacper-ragankiewicz&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kacper-ragankiewicz)](https://github.com/anuraghazra/github-readme-stats)
