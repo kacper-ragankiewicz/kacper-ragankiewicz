@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kacper-ragankiewicz, I'm studing IT in Polytechnic Institute. 
-- 👀 I’m working in Cryptomage as a Softwear Developer. 
-- 🌱 Working mostly with Django, React and JS. 
-- 📫 U can reach me throu email: kacper.ragankiewicz@cryptomage.com 
-- or private message: kacper-ragankiewicz@wp.pl
+- 👀 I’m Softwear Developer
+- 🌱 Working mostly with React, NodeJS and more. 
+- 📫 U can reach me throu email kacper-ragankiewicz@wp.pl
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacper-ragankiewicz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
