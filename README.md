@@ -3,7 +3,7 @@
 - 🌱 Working mostly with React, NodeJS and more. 
 - 📫 U can reach me throu email kacper-ragankiewicz@wp.pl
 
-## My personal website
+## My personal website :)
 
 link: http://curiousgrog.vercel.app
 
