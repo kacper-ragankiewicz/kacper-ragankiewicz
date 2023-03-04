@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kacper-ragankiewicz. 
 - 👀 I'm a Cyber Security researcher and Sofwear Developer.
 - 🌱 Working mostly with React, NodeJS and more. 
-- 📫 U can reach me throu email kasper.ragan@gmail.com
+- 📫 U can reach me throu email kasper.ragan@gmail.com or Twitter
 
 ## My personal website :)
 
