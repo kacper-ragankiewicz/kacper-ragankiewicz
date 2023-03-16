@@ -5,7 +5,7 @@
 
 ## My personal website :)
 
-link: http://curiousgrog.vercel.app
+link: https://dev.chiptree.pl
 
 ---
 
