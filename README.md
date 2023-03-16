@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @kacper-ragankiewicz. 
 - 👀 I'm a Cyber Security researcher and Sofwear Developer.
-- 🌱 Working mostly with React, NodeJS and more. 
-- 📫 U can reach me throu email kasper.ragan@gmail.com or Twitter ( link on bio )
+- 🌱 Working mostly with JS and C++/# 
+- 📫 U can reach me throu email kasper.ragan@gmail.com or Twitter ( link in bio )
 
-## My personal website :)
+## My personal website
 
 link: https://dev.chiptree.pl
 
