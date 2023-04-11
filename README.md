@@ -5,7 +5,7 @@
 
 ## My personal website
 
-link: https://kacper-ragankiewicz@wp.pl
+link: https://kacper-ragankiewicz.pl
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacper-ragankiewicz&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
