@@ -3,7 +3,7 @@
 - 🌱 Working mostly with JS and C++/# 
 - 📫 U can reach me throu email kasper.ragan@gmail.com or Twitter ( link in bio )
 
-## My personal website
+My personal website
 
 link: https://kacper-ragankiewicz.pl
 ---
