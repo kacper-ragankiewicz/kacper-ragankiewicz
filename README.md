@@ -5,5 +5,5 @@
 
 My personal website
 
-link: https://kacper-ragankiewicz.pl
+link: https://ragankiewicz.pl
 
