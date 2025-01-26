@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m passionate about cybersecurity, software development
 ## 🛠️ What I Do  
 
 - **Cybersecurity**: Network analysis, penetration testing, and securing digital systems.  
-- **Software Development**: Full-stack apps with **Next.js**, **Node.js**, and **C++/C#**.  
+- **Software Development**: Full-stack apps with **Next.js**, **Node.js**, **Python** and **C++/C#**.  
 - **Hardware & IoT**: PCB design with **KiCad** and experimenting with smart devices.  
 
 ---
