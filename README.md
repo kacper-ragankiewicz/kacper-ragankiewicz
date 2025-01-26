@@ -1,9 +1,33 @@
-- 👋 Hi, I’m @kacper-ragankiewicz. 
-- 👀 I'm a Cyber Security researcher and Sofwear Developer.
-- 🌱 Working mostly with JS (Next/Node) and C++/# 
-- 📫 U can reach me throu email kasper.ragan@gmail.com or Twitter ( link in bio )
+# Hi, I'm Kacper Ragankiewicz! 👋  
 
-My personal website
+🚀 **Cybersecurity Researcher | Software Developer | Problem Solver**  
 
-link: https://ragankiewicz.pl
+Welcome to my GitHub! I’m passionate about cybersecurity, software development, and building innovative solutions that make an impact.
 
+---
+
+## 🛠️ What I Do  
+
+- **Cybersecurity**: Network analysis, penetration testing, and securing digital systems.  
+- **Software Development**: Full-stack apps with **Next.js**, **Node.js**, and **C++/C#**.  
+- **Hardware & IoT**: PCB design with **KiCad** and experimenting with smart devices.  
+
+---
+
+## 🌱 Current Projects  
+
+- Building a **legal compliance platform** for businesses.  
+- Developing **IoT innovations** like a Bluetooth-controlled vibrating weighted blanket.  
+- Exploring complex networks and **advanced cybersecurity techniques**.
+
+---
+
+## 📫 Let’s Connect  
+
+- **Email**: [kasper.ragan@gmail.com](mailto:kasper.ragan@gmail.com)  
+- **Website**: [ragankiewicz.pl](https://ragankiewicz.pl)  
+- **Twitter**: [Find me here!](#)  
+
+---
+
+### Let’s collaborate and create something amazing together! 🚀  
