@@ -1,16 +1,33 @@
 # Hi, I'm Kacper Ragankiewicz! 👋  
 
-🚀 **Cybersecurity Researcher | Software Developer | Problem Solver**  
+🚀 **Cybersecurity Researcher | Software Developer | IoT Innovator | M.Sc. in Big Data Analytics**  
 
-Welcome to my GitHub! I’m passionate about cybersecurity, software development, and building innovative solutions that make an impact.
+I hold a **Master of Science in Engineering** in **Big Data Analytics** from **Wrocław University of Science and Technology (Faculty of Fundamental Problems of Technology)**.  
+I’m passionate about cybersecurity, software development, IoT innovation, and building high-impact solutions — from theory to fully functional products.
 
 ---
 
 ## 🛠️ What I Do  
 
-- **Cybersecurity**: Network analysis, penetration testing, and securing digital systems.  
-- **Software Development**: Full-stack apps with **JS**, **Python** and **C++/C#**.  
-- **Hardware & IoT**: PCB design with **KiCad** and experimenting with smart devices.  
+- **Cybersecurity**: Network analysis, penetration testing, Wi-Fi security exploitation (including WiFi 6), and securing digital systems.  
+- **Software Development**: Full-stack applications with **TypeScript**, **Python**, **C++/C#**. Creator of **JobUnblocker** — a microservices-based application that uses AI to automatically match job offers to candidates.  
+- **Hardware & IoT**:  
+  - Designed and built a **mobile-controlled device (iOS & Android)** managing **42 vibrating motors** powered by a rechargeable battery.  
+  - Created **ChipTree**, an **ESP-12-based device** with **OTA (Over-The-Air) firmware updates via Wi-Fi**, web-based control interface, and ultra-low-power design powered by a **single AA battery**.  
+  - PCB design and prototyping using **KiCad**, **LTSpice and Plecs**, **Falstad**, **EasyEDA**.  
+
+---
+
+## 📚 Research & Theories  
+
+- Developed a **cognitive science theory** inspired by the principles of the **General Theory of Relativity (OTW)**, integrating communication models, network theory, and AI-inspired cognitive processing.  
+
+---
+
+## 🌟 Achievements  
+
+- One of my IoT devices, when pitched to investors, **unofficially contributed to raising 2 million PLN in funding**.  
+- Experience delivering end-to-end solutions — from concept, hardware design, firmware, and mobile app development, to deployment.  
 
 ---
 
@@ -25,7 +42,6 @@ Welcome to my GitHub! I’m passionate about cybersecurity, software development
 ## 📫 Let’s Connect  
 
 - **Email**: [kasper.ragan@gmail.com](mailto:kasper.ragan@gmail.com)  
-- **Website**: [ragankiewicz.pl](https://ragankiewicz.pl)  
 - **Twitter**: [Find me here!](#)  
 
 ---
