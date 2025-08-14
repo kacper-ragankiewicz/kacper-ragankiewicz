@@ -33,7 +33,7 @@ I’m passionate about cybersecurity, software development, IoT innovation, and 
 
 ## 🌱 Current Projects  
 
-- Building a **legal compliance platform** for businesses.  
+- Building a **JobUnblocker** for AI job offer maching.  
 - Developing **IoT innovations** like a Bluetooth-controlled vibrating weighted blanket.  
 - Exploring complex networks and **advanced cybersecurity techniques**.
 
