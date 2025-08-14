@@ -24,6 +24,7 @@ I’m passionate about cybersecurity, software development, IoT innovation, and 
 ## 📚 Research & Theories  
 
 - Developed a **cognitive science theory** inspired by the principles of the **General Theory of Relativity (OTW)**, integrating communication models, network theory, and AI-inspired cognitive processing.  
+- Full implementation and simulations are available in my [CCIM repository](https://github.com/kacper-ragankiewicz/CCIM).
 
 ---
 
