@@ -14,7 +14,8 @@ I’m passionate about cybersecurity, software development, IoT innovation, and 
 - **Hardware & IoT**:  
   - Designed and built both the **application and hardware** for a **mobile-controlled device (iOS & Android)** managing **42 vibrating motors**, powered by a rechargeable battery.  
   - Created **ChipTree**, an **ESP-12-based device** with **OTA (Over-The-Air) firmware updates via Wi-Fi**, a web-based control interface, and an ultra-low-power design powered by a **single AA battery**.  
-  - PCB design and prototyping using **KiCad**, **LTSpice**, **Falstad**, **EasyEDA**.  
+  - PCB design and prototyping using **KiCad**, **LTSpice**, **Falstad**, **EasyEDA**.
+  - Certified to work on electrical systems up to 1000V (SEP license – Poland).  
 
 ---
 
