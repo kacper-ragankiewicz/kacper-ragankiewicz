@@ -9,12 +9,14 @@ I’m passionate about cybersecurity, software development, IoT innovation, and 
 
 ## 🛠️ What I Do  
 
-- **Cybersecurity**: Network analysis, penetration testing, Wi-Fi security exploitation (including WiFi 6), and securing digital systems.  
-- **Software Development**: Full-stack **AI** applications with **TypeScript**, **Python**, **C++/C#**. Creator of **JobUnblocker** — a microservices-based platform that uses AI to automatically match job offers to candidates.  
+- **Cybersecurity**: Network analysis, penetration testing, Wi-Fi security exploitation (including Wi-Fi 6), and securing digital systems (more details on my [TryHackMe profile](#)).  
+- **Software Development**: Full-stack **AI** applications with **TypeScript**, **Python**, **C++/C#** (examples in my public repositories).  
+  - Creator of **JobUnblocker** — a microservices-based platform that uses AI to automatically match job offers to candidates. (https://app.jobunblock.com)  
+  - Creator of **ChipTree** — a platform for real-time data fetching from IoT sensors with automated firmware updates over Wi-Fi. (https://chiptree.pl)  
 - **Hardware & IoT**:  
   - Designed and built both the **application and hardware** for a **mobile-controlled device (iOS & Android)** managing **42 vibrating motors**, powered by a rechargeable battery.  
-  - Created **ChipTree**, an **ESP-12-based device** with **OTA (Over-The-Air) firmware updates via Wi-Fi**, a web-based control interface, and an ultra-low-power design powered by a **single AA battery**.  
-  - PCB design and prototyping using **KiCad**, **LTSpice**, **Falstad**, **EasyEDA**.
+  - Created an **ESP-12-based device** with **OTA (Over-The-Air) firmware updates via Wi-Fi**, a web-based control interface, and an ultra-low-power hardware design powered by a **single AA battery**.  
+  - PCB design and prototyping using **KiCad**, **LTSpice**, **Falstad**, **EasyEDA**.  
   - Certified to work on electrical systems up to 1000V (SEP license – Poland).  
 
 ---
@@ -27,7 +29,7 @@ I’m passionate about cybersecurity, software development, IoT innovation, and 
 
 ## 🌟 Achievements  
 
-- One of my IoT devices, when pitched to investors, **unofficially contributed to raising 2 million PLN in funding**.  
+- One of my IoT devices, when pitched to investors, **unofficially contributed to raising 2 million PLN in funding** and further facilitated the company's migration to **NewConnect (Polish stock exchange)**.  
 - Experience delivering end-to-end solutions — from concept, hardware design, firmware, and mobile app development, to deployment.  
 
 ---
