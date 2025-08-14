@@ -1,6 +1,6 @@
 # Hi, I'm Kacper Ragankiewicz! 👋  
 
-🚀 **Cybersecurity Researcher | Software Developer | IoT Innovator | M.Sc. in Big Data Analytics**  
+🚀 **Cybersecurity Researcher | Software Engineer | IoT Innovator | M.Sc. in Big Data Analytics**  
 
 I hold a **Master of Science in Engineering** in **Big Data Analytics** from **Wrocław University of Science and Technology (Faculty of Fundamental Problems of Technology)**.  
 I’m passionate about cybersecurity, software development, IoT innovation, and building high-impact solutions — from theory to fully functional products.
@@ -10,11 +10,11 @@ I’m passionate about cybersecurity, software development, IoT innovation, and 
 ## 🛠️ What I Do  
 
 - **Cybersecurity**: Network analysis, penetration testing, Wi-Fi security exploitation (including WiFi 6), and securing digital systems.  
-- **Software Development**: Full-stack **AI** applications with **TypeScript**, **Python**, **C++/C#**. Creator of **JobUnblocker** — a microservices-based application that uses AI to automatically match job offers to candidates.  
+- **Software Development**: Full-stack **AI** applications with **TypeScript**, **Python**, **C++/C#**. Creator of **JobUnblocker** — a microservices-based platform that uses AI to automatically match job offers to candidates.  
 - **Hardware & IoT**:  
-  - Designed and built an application with **mobile-controlled device (iOS & Android)** managing **42 vibrating motors** powered by a rechargeable battery.  
-  - Created **ChipTree**, an **ESP-12-based device** with **OTA (Over-The-Air) firmware updates via Wi-Fi**, web-based control interface, and ultra-low-power design powered by a **single AA battery**.  
-  - PCB design and prototyping using **KiCad**, **LTSpice and Plecs**, **Falstad**, **EasyEDA**.  
+  - Designed and built both the **application and hardware** for a **mobile-controlled device (iOS & Android)** managing **42 vibrating motors**, powered by a rechargeable battery.  
+  - Created **ChipTree**, an **ESP-12-based device** with **OTA (Over-The-Air) firmware updates via Wi-Fi**, a web-based control interface, and an ultra-low-power design powered by a **single AA battery**.  
+  - PCB design and prototyping using **KiCad**, **LTSpice**, **Plecs**, **Falstad**, **EasyEDA**.  
 
 ---
 
@@ -33,7 +33,7 @@ I’m passionate about cybersecurity, software development, IoT innovation, and 
 
 ## 🌱 Current Projects  
 
-- Building a **JobUnblocker** for AI job offer maching.  
+- Building **JobUnblocker** — an AI-driven microservices platform for automated job offer matching.  
 - Developing **IoT innovations** like a Bluetooth-controlled vibrating weighted blanket.  
 - Exploring complex networks and **advanced cybersecurity techniques**.
 
@@ -46,4 +46,4 @@ I’m passionate about cybersecurity, software development, IoT innovation, and 
 
 ---
 
-### Let’s collaborate and create something amazing together! 🚀  
+### Let’s collaborate and create something amazing together! 🚀
