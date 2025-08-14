@@ -10,7 +10,7 @@ I’m passionate about cybersecurity, software development, IoT innovation, and 
 ## 🛠️ What I Do  
 
 - **Cybersecurity**: Network analysis, penetration testing, Wi-Fi security exploitation (including WiFi 6), and securing digital systems.  
-- **Software Development**: Full-stack applications with **TypeScript**, **Python**, **C++/C#**. Creator of **JobUnblocker** — a microservices-based application that uses AI to automatically match job offers to candidates.  
+- **Software Development**: Full-stack **AI** applications with **TypeScript**, **Python**, **C++/C#**. Creator of **JobUnblocker** — a microservices-based application that uses AI to automatically match job offers to candidates.  
 - **Hardware & IoT**:  
   - Designed and built a **mobile-controlled device (iOS & Android)** managing **42 vibrating motors** powered by a rechargeable battery.  
   - Created **ChipTree**, an **ESP-12-based device** with **OTA (Over-The-Air) firmware updates via Wi-Fi**, web-based control interface, and ultra-low-power design powered by a **single AA battery**.  
