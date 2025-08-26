@@ -11,7 +11,8 @@ I’m passionate about cybersecurity, software development, IoT innovation, and 
 
 - **Cybersecurity**: Network analysis, penetration testing, Wi-Fi security exploitation (including Wi-Fi 6), and securing digital systems (more details on my [TryHackMe profile](https://tryhackme.com/p/Roko).  
 - **Software Development**: Full-stack **AI** applications with **TypeScript**, **Python**, **C++/C#** (examples in my public repositories).  
-  - Creator of **JobUnblocker** — a microservices-based platform that uses AI to automatically match job offers to candidates. (https://app.jobunblock.com)  
+  - Creator of JobUnblocker — a microservices-based AI platform for automated job matching.
+Built with Redis, Prometheus, Grafana, and Tilt, with resilience mechanisms (failover, monitoring) and infrastructure prepared for Kubernetes deployment.
   - Creator of **ChipTree** — a platform for real-time data fetching from IoT sensors with automated firmware updates over Wi-Fi. (https://chiptree.pl)  
 - **Hardware & IoT**:  
   - Designed and built both the **application and hardware** for a **mobile-controlled device (iOS & Android)** managing **42 vibrating motors**, powered by a rechargeable battery.  
