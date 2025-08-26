@@ -18,8 +18,8 @@ I’m passionate about cybersecurity, software development, IoT innovation, and 
   - Created an **ESP-12-based device** with **OTA (Over-The-Air) firmware updates via Wi-Fi**, a web-based control interface, and an ultra-low-power hardware design powered by a **single AA battery**.  
   - PCB design and prototyping using **KiCad**, **LTSpice**, **Falstad**, **EasyEDA**.  
   - Certified to work on electrical systems up to 1000V (SEP license – Poland).
- 
-    More projects and professional services on (https://elektrodev.pl)
+
+More projects and professional services on (https://elektrodev.pl)
 
 ---
 
