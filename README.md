@@ -33,7 +33,7 @@ More projects and professional services on (https://elektrodev.pl)
 ## 🌟 Achievements  
 
 - One of my IoT devices, when pitched to investors, **unofficially contributed to raising 2 million PLN in funding** and further facilitated the company's migration to **NewConnect (Polish stock exchange)**.  
-- Experience delivering end-to-end solutions — from concept, hardware design, firmware, and mobile app development, to deployment.  
+- Experience delivering end-to-end solutions — from concept, hardware design, firmware, and mobile app development, to deployment [ElektroDev](https://elektrodev.pl).
 
 ---
 
