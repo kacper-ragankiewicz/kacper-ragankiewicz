@@ -2,7 +2,7 @@
 
 🚀 **Cybersecurity Researcher | Software Engineer | IoT Innovator | M.Sc. in Big Data Analytics**  
 
-I hold a **Master of Science in Engineering** in **Big Data Analytics** from [**Wrocław University of Science and Technology (Faculty of Fundamental Problems of Technology)**](https://wppt.pwr.edu.pl), completed entirely in English.  
+I hold a **Master of Science in Engineering** in [**Big Data Analytics**](https://bip.pwr.edu.pl/fcp/iGBUKOQtTKlQhbx08SlkFTxYCEi8pMgQGS39TB1BbWCECWR1pXhs_W3dN/4/public/bip/programy/w-11/w11_big_dataanalytics_ii_st_enpl.pdf) from [**Wrocław University of Science and Technology** (Faculty of Fundamental Problems of Technology)](https://wppt.pwr.edu.pl), completed entirely in English.  
 I’m passionate about cybersecurity, software development, IoT innovation, and building high-impact solutions — from theory to fully functional products.
 
 ---
