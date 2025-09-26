@@ -19,8 +19,6 @@ I’m passionate about cybersecurity, software development, IoT innovation, and 
   - PCB design and prototyping using **KiCad**, **LTSpice**, **Falstad**, **EasyEDA**.  
   - Certified to work on electrical systems up to 1000V (**SEP license** – Poland).
 
-More projects and professional services on [ElektroDev](https://elektrodev.pl)
-
 ---
 
 ## 📚 Research & Theories  
