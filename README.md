@@ -25,14 +25,14 @@ More projects and professional services on [ElektroDev](https://elektrodev.pl)
 
 ## 📚 Research & Theories  
 
-- Developed a **cognitive science theory** inspired by the principles of the **General Theory of Relativity (OTW)**, integrating communication models, network theory, and AI-inspired cognitive processing.  
+- Developed a **cognitive science theory** inspired by the principles of the **General Theory of Relativity (GTR)**, integrating communication models, network theory, and AI-inspired cognitive processing.  
 - Full implementation and simulations are available in my [CCIM repository](https://github.com/kacper-ragankiewicz/CCIM).
 
 ---
 
 ## 🌟 Achievements  
 
-- One of my IoT devices, when pitched to investors, **unofficially contributed to raising 2 million PLN in funding** and further facilitated the company's migration to **NewConnect (Polish stock exchange)**.  
+- One of my IoT devices, when pitched to investors, **contributed to raising 2 million PLN in funding** and further facilitated the company's migration to **NewConnect (Polish stock exchange)**.  
 - Experience delivering end-to-end solutions — from concept, hardware design, firmware, and mobile app development, to deployment [ElektroDev](https://elektrodev.pl).
 
 ---
@@ -48,7 +48,7 @@ More projects and professional services on [ElektroDev](https://elektrodev.pl)
 ## 📫 Let’s Connect  
 
 - **Email**: [kasper.ragan@gmail.com](mailto:kasper.ragan@gmail.com)  
-- **Twitter**: [Find me here!](#)  
+- **LinkedIn**: [Find me here!](https://www.linkedin.com/in/kacper-ragankiewicz-459a16255/)  
 
 ---
 
